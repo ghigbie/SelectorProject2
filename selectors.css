@@ -32,6 +32,10 @@ li {
 
 /*Change the background on every paragraph to be yellow*/
 
+p {
+	background: #efe934
+}
+
 
 /*Make all inputs have a 3px red border*/
 
