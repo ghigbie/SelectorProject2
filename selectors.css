@@ -54,7 +54,7 @@ input {
 /* Give the element with id 'special' a 2px solid blue border(pick your own rgb blue)*/
 
 #special {
-	border: 2px solid blue;
+	border: 2px solid rgb(0, 100, 200);
 
 }
 
