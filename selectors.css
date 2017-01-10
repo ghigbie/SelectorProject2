@@ -70,6 +70,10 @@ input[type="text"]{
 	background: #abaeb2;
 }
 
+input[type="password"]{
+	background: rgb(0, 200, 25);
+}
+
 
 /* Give both <p>'s inside the 3rd <div> a pink background*/
 div:nth-of-type(3) p{
